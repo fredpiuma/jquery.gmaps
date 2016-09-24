@@ -10,7 +10,7 @@ ___________                  .___           .__                   .___       ___
 	Funções para o manuseio do Google Maps
 	Copyright (c) 2011-2015 Frederico Marques de Castro (fredericodecastro.com.br)
 	Free Licence
-	Version: 1.8.1 (2016-05-05)
+	Version: 1.8.1 (2016-09-23)
 	Dependences: jquery, http://maps.googleapis.com/maps/api/js?v=3&sensor=false
 
 	*/
